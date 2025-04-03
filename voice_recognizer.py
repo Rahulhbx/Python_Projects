@@ -4,6 +4,7 @@ import webbrowser
 import datetime
 import pyjokes
 
+#main code();
 def sptext():
     recognizer=sr.Recognizer()
     with sr.Microphone() as source:
